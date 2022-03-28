@@ -1,6 +1,6 @@
 ## Docker
 
-Docker Hub https://hub.docker.com/r/yuchenmvc/hellodocker
+Docker Hub <!--https://hub.docker.com/r/yuchenmvc/-->
 
 
 |OS/ARCH|Compressed Size|Last pushed|
